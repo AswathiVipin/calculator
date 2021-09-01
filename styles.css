@@ -1,0 +1,77 @@
+body{
+    background-color: cornsilk;
+    padding:300px;
+    text-align: center;
+    
+}
+
+#container{
+    border: black;
+    border-width: 50px;
+    border: solid;
+    width:300px;
+    height:500px;
+    background-color: rgb(223, 213, 213);
+    border-radius: 50px;
+    
+
+}
+
+#calculator{
+    height: 450px;
+}
+
+#result{
+    height:200px;
+}
+
+#outpt,#history{
+    border: blue ;
+    padding: 10px;;
+}
+
+#output-value{
+    
+    height: 35px;
+    text-align: right;
+    font-size:x-large
+}
+
+.keyboard{
+    height:250px;
+    
+
+}
+
+.number,.operator{
+padding  :20px;
+border-radius: 50px;
+size: 10px;
+
+
+}
+
+#empty
+{
+    border: none;
+}
+
+.operator{
+    background-color: cyan;
+}
+
+#clear{
+    
+    background-color: rgb(64, 133, 79);
+    
+}
+
+#backspace{
+   
+    background-color: rgb(211, 167, 24);
+    
+}
+
+.number{
+    background-color: coral;
+}
